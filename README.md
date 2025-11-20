@@ -25,27 +25,27 @@ This project analyzes factors affecting student academic performance using data 
 ## 🔍 Key Findings
 
 ### 1. Test Preparation Impact
-- Students who completed test preparation scored **[X]** points higher on average
-- Impact was consistent across all subjects (Math: **[X]** pts, Reading: **[X]** pts, Writing: **[X]** pts)
+- Students who completed test preparation scored **7** points higher on average
+- Impact was consistent across all subjects (Math: **5** pts, Reading: **7** pts, Writing: **10** pts)
 
 ### 2. Socioeconomic Factors
-- **Lunch Type**: Students with standard lunch outperformed those with free/reduced lunch by **[X]** points
-- **Parental Education**: Students whose parents held bachelor's degrees or higher scored **[X]** points higher than those whose parents had high school education
+- **Lunch Type**: Students with standard lunch outperformed those with free/reduced lunch by **8** points
+- **Parental Education**: Students whose parents held bachelor's degrees or higher scored **11** points higher than those whose parents had high school education
 
 ### 3. Subject Correlations
 - Strong positive correlation between subjects:
-  - Math & Reading: **[X]**
-  - Math & Writing: **[X]**
-  - Reading & Writing: **[X]**
+  - Math & Reading: **0.818**
+  - Math & Writing: **0.803**
+  - Reading & Writing: **0.955**
 - This suggests students who excel in one subject tend to perform well across all subjects
 
 ### 4. Gender Differences
-- Females outperformed males in Reading by **[X]** points and Writing by **[X]** points
-- Males showed slightly higher performance in Math by **[X]** points
+- Females outperformed males in Reading by **7** points and Writing by **9** points
+- Males showed slightly higher performance in Math by **5** points
 
 ### 5. Race/Ethnicity Patterns
-- **[Group X]** showed highest average scores (**[X]** points)
-- Score gap between highest and lowest performing groups: **[X]** points
+- **Group E** showed highest average scores (73 points)
+- Score gap between highest and lowest performing groups: **12** points
 
 ## 📈 Model Performance
 
@@ -157,12 +157,10 @@ The project includes comprehensive visualizations:
 
 **[Your Name]**
 - GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- LinkedIn: [Joshua Achire](https://linkedin.com/in/joshua-achire)
+- Email: achirejoshua@gmail.com
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
