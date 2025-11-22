@@ -1,4 +1,4 @@
-# Student Performance Analysis and Prediction
+# Student Performance Analysis
 
 ## 📊 Project Overview
 
