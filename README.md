@@ -9,7 +9,7 @@ This project analyzes factors affecting student academic performance using data 
 - Understand how demographic and socioeconomic factors influence student performance
 - Identify the most impactful factors on academic success
 - Analyze correlations between different subject scores
-- Build predictive models to forecast student performance
+
 - Provide actionable recommendations for educational interventions
 
 ## 📁 Dataset
@@ -128,8 +128,7 @@ The project includes comprehensive visualizations:
 - Histograms showing score distributions
 - Correlation scatter plots between subjects
 - Box plots comparing scores across demographic groups
-- Residual plots for model diagnostics
-- Feature importance charts
+
 
 ## 🔮 Future Work
 
@@ -155,7 +154,7 @@ The project includes comprehensive visualizations:
 
 ## 👤 Author
 
-**[Your Name]**
+**[Joshua Achire]**
 - GitHub: [@your-username](https://github.com/your-username)
 - LinkedIn: [Joshua Achire](https://linkedin.com/in/joshua-achire)
 - Email: achirejoshua@gmail.com
@@ -169,4 +168,4 @@ The project includes comprehensive visualizations:
 
 ---
 
-*Last Updated: [Date]*
+
