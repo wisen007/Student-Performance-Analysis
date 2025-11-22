@@ -49,18 +49,7 @@ This project analyzes factors affecting student academic performance using data 
 
 ## 📈 Model Performance
 
-### Linear Regression Model
-- **Target Variable**: Average Score (mean of Math, Reading, and Writing)
-- **R² Score**: **[X]** (model explains **[X]**% of variance in scores)
-- **Mean Absolute Error (MAE)**: **[X]** points
-- **Root Mean Squared Error (RMSE)**: **[X]** points
 
-### Feature Importance
-1. **[Factor 1]**: Coefficient = **[X]**
-2. **[Factor 2]**: Coefficient = **[X]**
-3. **[Factor 3]**: Coefficient = **[X]**
-4. **[Factor 4]**: Coefficient = **[X]**
-5. **[Factor 5]**: Coefficient = **[X]**
 
 ## 💡 Recommendations
 
