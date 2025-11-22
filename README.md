@@ -46,11 +46,13 @@ This project analyzes factors affecting student academic performance using data 
 ### 4. Gender Differences
 - Females outperformed males in Reading by **7** points and Writing by **9** points
 - Males showed slightly higher performance in Math by **5** points
+-  ![Score Distributions](images/gender_write.png)
 - 
 
 ### 5. Race/Ethnicity Patterns
 - **Group E** showed highest average scores (73 points)
 - Score gap between highest and lowest performing groups: **12** points
+-  ![Score Distributions](images/race.png)
 
 ## 📈 Model Performance
 
