@@ -33,16 +33,20 @@ This project analyzes factors affecting student academic performance using data 
 - **Lunch Type**: Students with standard lunch outperformed those with free/reduced lunch by **8** points
 - **Parental Education**: Students whose parents held bachelor's degrees or higher scored **11** points higher than those whose parents had high school education
 
+- ![Score Distributions](images/lunch_impact.png)
+
 ### 3. Subject Correlations
 - Strong positive correlation between subjects:
   - Math & Reading: **0.818**
   - Math & Writing: **0.803**
   - Reading & Writing: **0.955**
 - This suggests students who excel in one subject tend to perform well across all subjects
+- ![Score Distributions](images/corr.read_write.png)
 
 ### 4. Gender Differences
 - Females outperformed males in Reading by **7** points and Writing by **9** points
 - Males showed slightly higher performance in Math by **5** points
+- 
 
 ### 5. Race/Ethnicity Patterns
 - **Group E** showed highest average scores (73 points)
