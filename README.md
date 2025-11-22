@@ -27,7 +27,7 @@ This project analyzes factors affecting student academic performance using data 
 ### 1. Test Preparation Impact
 - Students who completed test preparation scored **7** points higher on average
 - Impact was consistent across all subjects (Math: **5** pts, Reading: **7** pts, Writing: **10** pts)
-- [Score Distributions](images/preparation_impact.png)
+- ![Score Distributions](images/preparation_impact.png)
 
 ### 2. Socioeconomic Factors
 - **Lunch Type**: Students with standard lunch outperformed those with free/reduced lunch by **8** points
